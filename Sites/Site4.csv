@@ -1,0 +1,36 @@
+﻿Unit,Terminal,IP,MAC,,Switch,Port,Power,Orion,Zabbix
+120_A,T11154,10.209.25.51,70:85:c2:e9:50:27,,4,17,19.6,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55865&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32867
+120_A,t12633,10.209.25.67,70:85:c2:1c:28:31,,3,3,18.6,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55886&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32868
+120_B,T14643,10.209.25.77,70:85:c2:df:4a:1c,,4,18,19.3,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55884&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32869
+120_B,T14699,10.209.25.45,70:85:c2:df:4a:73,,9,9,19.6,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55867&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32870
+240_A,T14700,10.209.25.63,70:85:c2:df:49:e9,,12,5,18.7,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55885&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32824
+240_A,T14704,10.209.25.78,9c:6b:00:04:ea:26,,14,28,17.7,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=73536&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38916
+240_B,T14705,10.209.25.91,70:85:c2:df:49:5a,,14,30,18.8,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55885&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32829
+240_B,T14706,10.209.25.72,9c:6b:00:04:ec:bb,,14,32,17.5,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55878&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32842
+240_C,T14707,10.209.25.82,9c:6b:00:04:ed:16,,14,29,19.2,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55880&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32838
+240_C,T14724,10.209.25.46,70:85:c2:df:48:9f,,14,25,17.6,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55892&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:37839
+240_D,T14725,10.209.25.95,70:85:c2:df:4a:66,,14,26,18.7,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55882&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32826
+240_D,T14726,10.209.25.48,a8:a1:59:e5:f8:28,,7,8,19.6,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55893&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:37838
+60 Bed,T14729,10.209.25.42,9c:6b:00:04:ef:04,,3,4,17.9,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=60903&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32834
+60 Bed,T14730,10.209.25.55,70:85:c2:df:48:e4,,14,31,17.4,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=112692&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38917
+80 Bed Lower,T14732,10.209.25.93,70:85:c2:df:4a:69,,7,5,18.4,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55868&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38918
+80 Bed Lower,T14735,10.209.25.41,70:85:c2:df:49:2d,,9,11,17.7,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=56775&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38919
+80 Bed Upper,T14738,10.209.25.54,9c:6b:00:04:e9:10,,9,12,17.1,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=114289&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38916
+80 Bed Upper,T14739,10.209.25.87,70:85:c2:df:49:cf,,4,15,18.1,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=72146&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38920
+Voke 1,T14741,10.209.25.97,70:85:c2:df:49:d5,,4,13,18.4,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55890&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32828
+Voke 1,T14742,10.209.25.92,70:85:c2:df:48:cd,,9,10,19.9,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55877&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32830
+Voke 2,T17127,10.209.25.73,9c:6b:00:04:e7:da,,14,27,18.1,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=113438&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38922
+Voke 2,T20863,10.209.25.47,a8:a1:59:5d:a5:89,,7,7,18.9,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55891&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38923
+Voke 2,T20888,10.209.25.58,a8:a1:59:5d:a7:e1,,10,5,18.7,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55866&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38924
+Voke 2,T23095,10.209.25.85,70:85:c2:e6:1e:43,,4,20,19.8,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55864&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:38925
+Voke 3,T26184,10.209.25.61,a8:a1:59:e5:fa:45,,10,6,16.9,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=55871&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32832
+Voke 3,T9279,10.209.25.96,70:85:c2:17:b1:a9,,7,9,18.1,http://10.36.133.173/zabbix/zabbix.php?action=charts.view&view_as=showgraph&filter_hostids%5B%5D=73497&filter_set=1,https://at-orionpoll01.corp.securustech.net/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:32845
+Voke 4,,,,,,,,,
+Voke 4,,,,,,,,,
+Voke 4,,,,,,,,,
+Intake POD,,,,,,,,,
+Intake POD,,,,,,,,,
+Infirmary,,,,,,,,,
+Gym,,,,,,,,,
+Gym,,,,,,,,,
+Upper Program,,,,,,,,,

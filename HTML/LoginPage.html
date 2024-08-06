@@ -1,0 +1,74 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Appliance Admin</title>
+        <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="css/menu.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="css/screen.css" type="text/css" media="screen">
+        <script type="text/javascript" src="js/jquery/jquery-1.12.3.js"></script>
+        <script type="text/javascript" src="js/jquery.validate.js"></script>
+        <script type="text/javascript" src="js/jquery/jquery-ui-1.8.20.min.js"></script>
+        <script type="text/javascript" src="js/jquery/jquery-extensions.js"></script>
+        <script type="text/javascript" src="js/helperFunctions.js"></script>
+        <script type="text/javascript" src="js/jquery.watermark.min.js"></script>
+
+    </head>
+    <body>
+        <div id="page">
+            <div id="header">
+                <a href="/">
+                    <img src="images/logo/logo.png" title="Homepage" id="logo" width="15%">
+                </a>
+                <h1>Appliance Admin</h1>
+            </div>
+
+            <div id="languages">
+                <div id="es-MX" class="changeLang"><img src="images/buttons/lang-es-MX.png"></div>
+                <div id="en-US" class="changeLang"><img class="selected" src="images/buttons/lang-en-US.png"></div>
+            </div>
+
+            <script type="text/javascript">
+                $('.changeLang').click(function() {
+                    $.ajax({
+                        type: 'GET',
+                        url: 'index.php?do=changeLanguage&value='+$(this).attr("id"),
+                        success: function(data) {
+                            window.location = $(location).attr('href');
+                        }
+                    })
+                });
+            </script>
+
+            <div id="content">
+                <fieldset>
+                    <legend>Login</legend>
+                    <form method="post" action="index.php?do=displayStatus" id="connect">
+                        <div class="row">
+                            <label>Username:</label>
+                            <input type="text" name="user">
+                        </div>
+                        <div class="row">
+                            <label>Password:</label>
+                            <input type="password" name="pwd">
+                        </div>
+                        <div class="row">
+                            <label>&nbsp;</label>
+                            <input type="submit" value="Connect">
+                        </div>
+                    </form>
+                </fieldset>
+            </div>
+            <div id="footer">
+            © Securus Technologies™
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            $(function(){
+                $(":input").get(0).focus();
+            });
+        </script>
+
+    </body>
+</html>
